@@ -1,0 +1,11 @@
+body {
+  background-color: #968181;
+}
+body .container {
+  text-align: center;
+}
+body .container h1 {
+  text-transform: uppercase;
+  -webkit-text-decoration: dashed;
+          text-decoration: dashed;
+}/*# sourceMappingURL=home.css.map */

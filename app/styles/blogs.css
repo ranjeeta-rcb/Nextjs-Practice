@@ -1,0 +1,12 @@
+body {
+  background-color: #a57979;
+}
+body .container {
+  text-align: center;
+}
+body .container h1 {
+  text-decoration: underline;
+}
+body .container h3 {
+  text-transform: uppercase;
+}/*# sourceMappingURL=blogs.css.map */

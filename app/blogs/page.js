@@ -1,8 +1,9 @@
  import Link from 'next/link';
-
+import styles from "../styles/blogs.css"
 export default function Home() {
   return (
-   <>
+   
+  <div className='container'>
      <h1>Technical Agency</h1>
     <h3>All Blogs</h3>
       <p>
@@ -17,8 +18,7 @@ export default function Home() {
  <Link href="/ ">Blog 3</Link>
      </p>
  
-     
-  
-     </>
+     </div>
+   
   )
 }

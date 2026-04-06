@@ -1,0 +1,13 @@
+$primary-color: #968181;
+
+body{
+    background-color: $primary-color;
+
+    .container{
+        text-align: center;
+        h1{
+            text-transform: uppercase;
+            text-decoration: dashed;
+        }
+    }
+}
